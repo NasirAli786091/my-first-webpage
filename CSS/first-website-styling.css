@@ -1,0 +1,60 @@
+body{
+      text-align: center;
+      margin: 0;
+      background-color: #99BBAD;
+}
+hr{
+      width: 50%;
+      border-style:dotted;
+      border-color: grey;
+      border-top: 0;
+}
+.intros-body{
+      width:50%;
+      margin:5% auto;
+
+}
+.myimage{
+      width:30%;
+}
+.myimage2{
+      /* padding-top: 10%; */
+      width:10%;
+      float: right;
+}
+.starting{
+      width:80%;
+      margin:5% auto;
+      line-height: 2;
+      text-align: left;
+}
+.projects{
+      width:80%;
+      margin:5% auto;
+      line-height: 2;
+      text-align: left;
+}
+.myimage3{
+      /* padding-top: 10%; */
+      width:10%;
+      float:right;
+}
+.future-class{
+      width:80%;
+      margin:5% auto;
+      line-height: 2;
+      text-align: left;
+}
+.footer{
+      margin:5% auto;
+      color:#06623B;
+}
+h1{
+      font-family: 'Sacramento', cursive;
+      font-size: 500%;
+      color: #3A6351; 
+}
+h2{
+      font-family: 'Merriweather', serif;
+      color: #00917C;
+}
